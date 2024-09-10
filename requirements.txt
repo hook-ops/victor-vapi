@@ -2,3 +2,4 @@ fastapi
 requests
 twilio
 python-dotenv
+uvicorn
